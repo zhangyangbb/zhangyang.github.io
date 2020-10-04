@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
 
-You can use the [editor on GitHub](https://github.com/zhangyangbb/zhangyang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Hello， | zhangyang.github.io</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Hello，" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://zhangyang.github.io/" />
+<meta property="og:url" content="https://zhangyang.github.io/" />
+<meta property="og:site_name" content="zhangyang.github.io" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"Hello，","url":"https://zhangyang.github.io/","name":"zhangyang.github.io","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/assets/css/style.css?v=9dff8bece807f7227c213cabd9a6aaf7f9f19934">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">zhangyang.github.io</h1>
+      <h2 class="project-tagline"></h2>
+      
+      
+    </section>
 
-### Markdown
+    <section class="main-content">
+      
+<h1 id="hello"><em>hello，</em></h1>
+<h1 id="我是张阳"><em>我是张阳，</em></h1>
+<h1 id="很高兴有人来看我的主页">很高兴有人来看我的主页。</h1>
+<h2 id="welcome-to-张阳的个人主页"><strong>Welcome to 张阳的个人主页</strong></h2>
+<h3 id="我的信息，认真看哦">我的信息，认真看哦</h3>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p><code class="language-plaintext highlighter-rouge">性别：     你猜</code></p>
 
-```markdown
-Syntax highlighted code block
+<p><code class="language-plaintext highlighter-rouge">籍贯： 甘肃省庆阳市宁县</code></p>
 
-# Header 1
-## Header 2
-### Header 3
+<p><code class="language-plaintext highlighter-rouge">出生日期：     2003.4.14</code></p>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangyangbb/zhangyang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p><code class="language-plaintext highlighter-rouge">就读学校：     中关村文理学院（北京大学，你猜到了吗，hhh）</code></p>
+<p><code class="language-plaintext highlighter-rouge">身高：   185cm  </code></p>
+<p><code class="language-plaintext highlighter-rouge">体重：   嘿嘿，保密  </code></p>
+<p>兴趣爱好：体育方面只要我会的我都喜欢，毕竟我小时候当了八年的体育生啊，嘿嘿。当然最喜欢的还是篮球，扣篮走起，NBA走起，James我来了。还喜欢有关美学的书籍，特别是李泽厚先生的《美的历程》。
+<p>最喜欢的一句话，支撑着我从学渣开始一步步来到北大，现在送给你————生命中最伟大的光辉不在于永不坠落，而是坠落后总能再度。
+<p>来几张图吧，文字干巴巴的不耐看
+<img src=>
