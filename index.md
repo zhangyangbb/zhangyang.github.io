@@ -51,4 +51,4 @@
 <img src="c706e71fc008950ed260f68a7edcb3e.jpg" alt="c706e71fc008950ed260f68a7edcb3e.jpg">
 <p><code class="language-plaintext highlighter-rouge">就是这些了，简单地先认识下我吧</code></p>
 <p><code class="language-plaintext highlighter-rouge">如果还想进一步了解我的话，这有我的QQ哦：3097107441</code></p>
-<p><code class="language-plaintext highlighter-rouge">再见了，朋友</code></p>
+<p><code class="language-plaintext highlighter-rouge">要说再见了啊，朋友</code></p>
