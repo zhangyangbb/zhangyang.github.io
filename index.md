@@ -48,4 +48,7 @@
 <p>最喜欢的一句话，支撑着我从学渣开始一步步来到北大，现在送给你————生命中最伟大的光辉不在于永不坠落，而是坠落后总能再度。
 <p>来几张图吧，文字干巴巴的不耐看
 <img src="b2c50e29740b5a24c509c69c6de3f5f.jpg" alt="b2c50e29740b5a24c509c69c6de3f5f.jpg">   
-<img src="" alt="">
+<img src="c706e71fc008950ed260f68a7edcb3e.jpg" alt="c706e71fc008950ed260f68a7edcb3e.jpg">
+<p><code class="language-plaintext highlighter-rouge">就是这些了，简单地先认识下我吧</code></p>
+<p><code class="language-plaintext highlighter-rouge">如果还想进一步了解我的话，这有我的QQ哦：3097107441</code></p>
+<p><code class="language-plaintext highlighter-rouge">再见了，朋友</code></p>
